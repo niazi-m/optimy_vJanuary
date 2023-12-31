@@ -17,8 +17,6 @@
 		E37325082B39C44100C39DE0 /* TestAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37325072B39C44100C39DE0 /* TestAppUITests.swift */; };
 		E373250A2B39C44100C39DE0 /* TestAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37325092B39C44100C39DE0 /* TestAppUITestsLaunchTests.swift */; };
 		E37325172B3A9FF200C39DE0 /* Documentation.docc in Sources */ = {isa = PBXBuildFile; fileRef = E37325162B3A9FF200C39DE0 /* Documentation.docc */; };
-		E37325192B3AA73D00C39DE0 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37325182B3AA73D00C39DE0 /* SwiftUIView.swift */; };
-		E373251B2B3AA88400C39DE0 /* MyTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E373251A2B3AA88400C39DE0 /* MyTabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,8 +51,6 @@
 		E37325072B39C44100C39DE0 /* TestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppUITests.swift; sourceTree = "<group>"; };
 		E37325092B39C44100C39DE0 /* TestAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E37325162B3A9FF200C39DE0 /* Documentation.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Documentation.docc; sourceTree = "<group>"; };
-		E37325182B3AA73D00C39DE0 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
-		E373251A2B3AA88400C39DE0 /* MyTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,12 +105,10 @@
 				E37324E62B39C43F00C39DE0 /* AppDelegate.swift */,
 				E37324E82B39C43F00C39DE0 /* SceneDelegate.swift */,
 				E37324EA2B39C43F00C39DE0 /* ViewController.swift */,
-				E37325182B3AA73D00C39DE0 /* SwiftUIView.swift */,
 				E37324EC2B39C43F00C39DE0 /* Main.storyboard */,
 				E37324EF2B39C44100C39DE0 /* Assets.xcassets */,
 				E37324F12B39C44100C39DE0 /* LaunchScreen.storyboard */,
 				E37324F42B39C44100C39DE0 /* Info.plist */,
-				E373251A2B3AA88400C39DE0 /* MyTabBarController.swift */,
 			);
 			path = TestApp;
 			sourceTree = "<group>";
@@ -271,8 +265,6 @@
 				E37324E72B39C43F00C39DE0 /* AppDelegate.swift in Sources */,
 				E37324E92B39C43F00C39DE0 /* SceneDelegate.swift in Sources */,
 				E37325172B3A9FF200C39DE0 /* Documentation.docc in Sources */,
-				E37325192B3AA73D00C39DE0 /* SwiftUIView.swift in Sources */,
-				E373251B2B3AA88400C39DE0 /* MyTabBarController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
